@@ -1,0 +1,21 @@
+{
+  "name": "cachou",
+  "description": "A poc with node, proxy and redis",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/stefounet/cachou.git"
+  },
+  "private": false,
+  "dependencies": {
+    "bouncy": "",
+    "redis":"",
+    "hiredis":""
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "./test-runner.sh"
+  },
+  "engines": {"node": ""}
+}
